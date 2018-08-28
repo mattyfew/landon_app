@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Landon App v. {{ $version }}
                 </div>
 
                 <div class="links">
